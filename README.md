@@ -1,3 +1,3 @@
 # Custom Hooks
 
-Repositorio de custom hooks realizado en el curso de Udemy: React de cero a experto por Fernando Herrera.
+Repositorio de Custom Hooks realizados en el curso de Udemy: React de cero a experto por Fernando Herrera.
